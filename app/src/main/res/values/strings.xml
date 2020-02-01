@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">WiproDemoAndroidApp</string>
+
+  <!--API Error messages-->
+  <string name="msg_error_connection_timeout">Connection timeout</string>
+  <string name="msg_error_no_network">Network error occurred, please retry after sometime.</string>
+  <string name="text_api_error">No Data to Show.</string>
+  <string name="text_progressbar_error">Progress Bar Not Available.</string>
+</resources>

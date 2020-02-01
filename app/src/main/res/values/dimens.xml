@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="titleTextSize">20sp</dimen>
+  <dimen name="descriptionTextSize">16sp</dimen>
+  <dimen name="size_5dp">5dp</dimen>
+  <dimen name="size_4dp">4dp</dimen>
+  <dimen name="size_0dp">0dp</dimen>
+  <dimen name="size_10dp">10dp</dimen>
+</resources>
